@@ -1,6 +1,8 @@
 # ICS3U
 Source files for ICS3U: An introduction to computing.
 
+Notice: Some of the code shown isn't optimized and/or doesn't use the most efficient methods of completing things as these were developed when I first began learning Python. If you have any questions, feel free to contact me for further details. As always, if you're currently taking ICS3U don't simply copy and paste the code. Study from it, learn what it does and make your own :)
+
 [Exercise 0](/Exercise0.py)
 
 [Exercise 1](/Exercise1.py)
