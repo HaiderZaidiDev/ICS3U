@@ -1,6 +1,6 @@
 # ICS3U
 Source files for ICS3U: An introduction to computing.
-[Exercise 0](..ICS3U/Exercise0.py)
+[Exercise 0](/Exercise0.py)
 [Exercise 1]
 [Exercise 2]
 [Exercise 3]
